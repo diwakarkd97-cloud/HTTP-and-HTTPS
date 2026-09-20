@@ -1,0 +1,23 @@
+hostinger website used to create a new domain
+
+browser : javascript cannot run by browser so javascript engine needed.
+          v8 engine.
+          javascript run only in browser engine.
+
+node.js : v8 + additional features(file access, create server,network,database connetivity)
+          used to run javascript in vscode to run javascript.
+
+
+
+HTTP- HYPERTEXT TRANSFER PROTOCOL
+      USED TO COMMUNICATE BROWSER WITH server
+
+HTTPS - HYPERTEXT TRANSFER PROTOCOL SECURE(DATA ENCRYPTED HERE)
+
+HTTP Methods - actions you ask server to do 
+
+               get    - opening the webpage(just read)
+               post     login credentials
+               put      update full data  (update profile)
+               patch    update part of data  (change password)
+               delete   delete post
